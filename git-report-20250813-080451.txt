@@ -1,0 +1,7 @@
+Category: beepmedia
+Repository: beepmedia/mcp/mcp-dev/mcp-google-drive
+Full path: /Users/andreihasna/Dev/beepmedia/mcp/mcp-dev/mcp-google-drive
+
+  • Has uncommitted changes
+Push successful: false
+---
